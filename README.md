@@ -1,5 +1,4 @@
 ﻿# Bath-in-Winters
-Sure! Here's a clear explanation of the simplified C++ code:
 
 ---
 
