@@ -98,4 +98,3 @@ int main() {
 
 ---
 
-Let me know if you'd like the version with input/output prompts or for another language!
